@@ -1,7 +1,7 @@
 ## ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ 🚬🦋
 
 <h2 align="center">   
-    ──「◄⏤͟͞ꭙͯ͢³⋆꯭ꙶ⋆꯭ͣ⋆᭄ͫ͢🍁⃝🇧𝐑𝐀𝐍𝐃𝐄𝐃 ᥫᩣ🇰𝗜𝗡𝗚𐏓꯭ ᷞ ͦ͢ ͮ ͤ𓆪🕊⃝🦋 」──  
+    ──「◄⏤͟͞ꭙͯ͢³⋆꯭ꙶ⋆꯭ͣ⋆᭄ͫ͢🍁⃝H Y P E R𐏓꯭ ᷞ ͦ͢ ͮ ͤ𓆪🕊⃝🦋 」──  
    </h2>  
  <p align="center">   
 <img src="https://graph.org/file/51e1bf391ebb7421aca57.jpg"
@@ -29,8 +29,8 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 🚬🦋
 
-- [Rᴏʏᴀʟ Rᴀᴊᴘᴜᴛ](https://t.me/BRANDED_WORLD)
-- [Bʀᴀɴᴅᴇᴅ ᴋɪɴɢ](https://t.me/BRANDRD_BOT)
+- [H Y P E R](https://t.me/+h-H3fra7QHAxNmU1)
+- [HYPER CHANNEL](https://t.me/cbienter)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
