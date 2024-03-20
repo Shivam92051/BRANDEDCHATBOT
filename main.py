@@ -18,7 +18,7 @@ MONGO_URL = os.environ.get("MONGO_URL", None)
 BOT_USERNAME = os.environ.get("BOT_USERNAME","") 
 UPDATE_CHNL = os.environ.get("UPDATE_CHNL","BRANDRD_BOT")
 OWNER_USERNAME = os.environ.get("OWNER_USERNAME","@GOD_HYPER_O_P")
-SUPPORT_GRP = os.environ.get("SUPPORT_GRP","BRANDED_WORLD")
+SUPPORT_GRP = os.environ.get("SUPPORT_GRP","@Ayodhya_nagri_chatting_group")
 BOT_NAME = os.environ.get("BOT_NAME","CHATBOT")
 START_IMG = os.environ.get("START_IMG","")
 
